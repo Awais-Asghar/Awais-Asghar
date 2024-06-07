@@ -1,7 +1,7 @@
  Hi, I’m @Awais-Asghar
 
 ## About Me
-I am a passionate Electrical Engineering student at NUST (National University of Sciences and Technology). My expertise lies in Object-Oriented Programming (OOP) with proficiency in C++ and Python. Additionally, I have strong skills in HTML, CSS, WordPress, JavaScript, and C language.
+I am a passionate Electrical Engineering student at NUST (National University of Sciences and Technology). My expertise lies in Object-Oriented Programming (OOP) with proficiency in C++ and Python. Additionally, I have strong skills Assembly language and Embedded C.
 
 ##  Currently Learning
 I am currently focused on learning Embedded Systems, specifically for Arduino and ESP32 platforms. I'm excited about diving into the world of hardware and firmware development.
