@@ -1,19 +1,19 @@
- Hi, I’m @Awais-Asghar
+# Hi, I’m @Awais-Asghar
 
 ## About Me
-I am a passionate Electrical Engineering student at NUST (National University of Sciences and Technology). My expertise lies in Object-Oriented Programming (OOP) with proficiency in C++ and Python. Additionally, I have strong skills Assembly language and Embedded C.
+I’m a final-year Electrical Engineering student at NUST, currently working on Digital Chip Design at the NUST Chip Design Centre (NCDC). My core interests lie in Machine Learning, Chip Design (VLSI, Digital Design), and Embedded Systems.
 
 ## Currently Learning
-I am currently focused on learning Embedded Systems, particularly for Arduino and ESP32 platforms. I am excited about diving into the world of hardware and firmware development. Additionally, I am working on machine learning, deep learning, and image processing using OpenCV.
+Exploring FPGA development, RISC-V architecture, Embedded Linux, VLSI systems, and hardware-software co-design. I’m focused on developing efficient and scalable embedded and silicon-level solutions.
 
-## 💞Collaboration
-I am open to collaborations on projects related to electrical engineering, software development, or any interesting tech-related initiatives. Feel free to reach out if you have exciting projects or ideas to work on together.
+## Collaboration
+I’m open to collaborations in Embedded Systems, Machine Learning, or Chip Design. Let’s connect if you have exciting ideas or tech projects to work on together.
 
 ## 📫 How to Reach Me
 - Email: aasghar.bee22seecs@seecs.edu.pk
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/awais-asghar-500515262/)
-- Instagram: [Instagram](https://www.instagram.com/awais_asghar_a/)
-- Facebook: [Facebook](https://www.facebook.com/awaisasghar.asgharali/)
+- Instagram: [Instagram](https://www.instagram.com/itx_electra_awais)
+- Facebook: [Facebook](https://www.facebook.com/electra.awais/)
 
 <!---
 Awais-Asghar/Awais-Asghar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
