@@ -11,11 +11,5 @@ I’m open to collaborations in Embedded Systems, Machine Learning, or Chip Desi
 
 ## 📫 How to Reach Me
 - Email: aasghar.bee22seecs@seecs.edu.pk
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/awais-asghar-500515262/)
-- Instagram: [Instagram](https://www.instagram.com/itx_electra_awais)
-- Facebook: [Facebook](https://www.facebook.com/electra.awais/)
-
-<!---
-Awais-Asghar/Awais-Asghar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Email: awaisasghara786@gmail.com
+  
