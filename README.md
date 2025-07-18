@@ -5,10 +5,7 @@ I’m a final-year Electrical Engineering student at NUST, currently working on 
 
 [![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awais-Asghar&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Awais-Asghar) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Awais-Asghar&layout=donut&bg_color=000000&title_color=ffffff&text_color=ffffff)](https://github.com/Awais-Asghar)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Awais-Asghar&color=blue)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Awais-Asghar&theme=default)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Awais-Asghar&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awais-Asghar&count_private=true&show_icons=true&theme=dark)](https://github.com/Awais-Asghar)
 
