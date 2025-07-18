@@ -9,11 +9,6 @@ I’m a final-year Electrical Engineering student at NUST, currently working on 
 
 [![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awais-Asghar&show_icons=true&rank_icon=github&theme=dark)](https://github.com/Awais-Asghar)
 
-
-[Awais' GitHub Profile Summary](https://profile-summary-for-github.com/user/Awais-Asghar)
-
-[![Profile Summary](https://raw.githubusercontent.com/Awais-Asghar/assets/main/profile-summary.png)](https://profile-summary-for-github.com/user/Awais-Asghar)
-
 [![Profile Summary for GitHub](https://img.shields.io/badge/Profile%20Summary-Click%20Here-blue?style=flat-square)](https://profile-summary-for-github.com/user/Awais-Asghar)
 
 
