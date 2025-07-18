@@ -10,6 +10,9 @@ I’m a final-year Electrical Engineering student at NUST, currently working on 
 [![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awais-Asghar&show_icons=true&rank_icon=github&theme=dark)](https://github.com/Awais-Asghar)
 
 
+[Awais' GitHub Profile Summary](https://profile-summary-for-github.com/user/Awais-Asghar)
+
+
 ## Currently Learning
 Exploring FPGA development, RISC-V architecture, Embedded Linux, VLSI systems, and hardware-software co-design. I’m focused on developing efficient and scalable embedded and silicon-level solutions.
 
