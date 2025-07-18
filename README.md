@@ -12,6 +12,10 @@ I’m a final-year Electrical Engineering student at NUST, currently working on 
 
 [Awais' GitHub Profile Summary](https://profile-summary-for-github.com/user/Awais-Asghar)
 
+[![Profile Summary](https://raw.githubusercontent.com/Awais-Asghar/assets/main/profile-summary.png)](https://profile-summary-for-github.com/user/Awais-Asghar)
+
+[![Profile Summary for GitHub](https://img.shields.io/badge/Profile%20Summary-Click%20Here-blue?style=flat-square)](https://profile-summary-for-github.com/user/Awais-Asghar)
+
 
 ## Currently Learning
 Exploring FPGA development, RISC-V architecture, Embedded Linux, VLSI systems, and hardware-software co-design. I’m focused on developing efficient and scalable embedded and silicon-level solutions.
