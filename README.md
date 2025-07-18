@@ -7,9 +7,6 @@ I’m a final-year Electrical Engineering student at NUST, currently working on 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Awais-Asghar&theme=default)](https://git.io/streak-stats)
 
-[![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awais-Asghar&count_private=true&show_icons=true&theme=dark)](https://github.com/Awais-Asghar)
-
-
 ## Currently Learning
 Exploring FPGA development, RISC-V architecture, Embedded Linux, VLSI systems, and hardware-software co-design. I’m focused on developing efficient and scalable embedded and silicon-level solutions.
 
