@@ -3,7 +3,8 @@
 ## About Me
 I’m a final-year Electrical Engineering student at NUST, currently working on Digital Chip Design at the NUST Chip Design Centre (NCDC). My core interests lie in Machine Learning, Chip Design (VLSI, Digital Design), and Embedded Systems.
 
-[![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awais-Asghar&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Awais-Asghar) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Awais-Asghar&layout=donut&bg_color=000000&title_color=ffffff&text_color=ffffff)](https://github.com/Awais-Asghar)
+<img width="1537" height="864" alt="image" src="https://github.com/user-attachments/assets/2341bd4f-6a69-4c46-b048-9badb90530bf" />
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Awais-Asghar&theme=default)](https://git.io/streak-stats)
 
