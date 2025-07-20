@@ -4,18 +4,7 @@
 ## About Me
 I’m a final-year Electrical Engineering student at NUST, currently working on Digital Chip Design at the NUST Chip Design Centre (NCDC). My core interests lie in Machine Learning, Chip Design (VLSI, Digital Design), and Embedded Systems.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Awais-Asghar&theme=default)](https://git.io/streak-stats) [![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awais-Asghar&show_icons=true&rank_icon=github&theme=dark)](https://github.com/Awais-Asghar)
-
-
-
-
-
-
-<h3 align="left" style="color: #00BFFF;">Awais's GitHub Stats</h3>
-
-[![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awais-Asghar&show_icons=true&rank_icon=github&theme=dark)](https://github.com/Awais-Asghar)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Awais-Asghar&hide_progress=true&theme=dark)
+[![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awais-Asghar&show_icons=true&hide=contribs&rank_icon=github&theme=dark)](https://github.com/Awais-Asghar)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Awais-Asghar&hide_progress=true&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Awais-Asghar&theme=dark)](https://git.io/streak-stats)
 
