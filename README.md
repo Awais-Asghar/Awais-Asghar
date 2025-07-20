@@ -13,6 +13,12 @@ I’m a final-year Electrical Engineering student at NUST, currently working on 
 [![Profile Summary for GitHub](https://img.shields.io/badge/Profile%20Summary-Click%20Here-blue?style=flat-square)](https://profile-summary-for-github.com/user/Awais-Asghar)
 
 
+<a href="https://github.com/Awais-Asghar/FPGA-Based-Smart-Car-Security-System/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Awais-Asghar/FPGA-Based-Smart-Car-Security-System" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
 ## Currently Learning
 Exploring FPGA development, RISC-V architecture, Embedded Linux, VLSI systems, and hardware-software co-design. I’m focused on developing efficient and scalable embedded and silicon-level solutions.
 
