@@ -11,9 +11,6 @@ I’m a final-year Electrical Engineering student at NUST, currently working on 
 [![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awais-Asghar&show_icons=true&rank_icon=github&theme=dark)](https://github.com/Awais-Asghar)
 
 
-<img src="https://raw.githubusercontent.com/Awais-Asghar/Awais-Asghar/main/assets/![IMG-20250223-WA0081](https://github.com/user-attachments/assets/6f35e43a-b5a1-4b3b-b071-601cefc3b11b)" width="100" style="border-radius: 50%;" />
-
-
 [![Profile Summary for GitHub](https://img.shields.io/badge/Profile%20Summary-Click%20Here-blue?style=flat-square)](https://profile-summary-for-github.com/user/Awais-Asghar)
 
 ## Currently Learning
@@ -22,7 +19,6 @@ Exploring FPGA development, RISC-V architecture, Embedded Linux, VLSI systems, a
 ## Collaboration
 I’m open to collaborations in Embedded Systems, Machine Learning, or Chip Design. Let’s connect if you have exciting ideas or tech projects to work on together.
 
-## 📫 How to Reach Me
+## How to Reach Me
 - Email: aasghar.bee22seecs@seecs.edu.pk
-- Email: awaisasghara786@gmail.com
-  
+- Email: awaisasghara786@gmail.com 
