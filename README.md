@@ -10,15 +10,21 @@ I’m a final-year Electrical Engineering student at NUST, currently working on 
 
 [![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awais-Asghar&show_icons=true&rank_icon=github&theme=dark)](https://github.com/Awais-Asghar)
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Awais-Asghar/FPGA-Based-Smart-Car-Security-System/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=Awais-Asghar/FPGA-Based-Smart-Car-Security-System" width="300"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Awais-Asghar">
+        <img src="https://github-readme-stats.vercel.app/api?username=Awais-Asghar&show_icons=true&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-
-
-
-<a href="https://github.com/Awais-Asghar/FPGA-Based-Smart-Car-Security-System/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Awais-Asghar/FPGA-Based-Smart-Car-Security-System" width="300"/>
-</a>
-
-[![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awais-Asghar&show_icons=true&theme=dark)](https://github.com/Awais-Asghar)
 
 
 [![Profile Summary for GitHub](https://img.shields.io/badge/Profile%20Summary-Click%20Here-blue?style=flat-square)](https://profile-summary-for-github.com/user/Awais-Asghar)
