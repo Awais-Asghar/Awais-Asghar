@@ -27,13 +27,14 @@ Strong interest in hardware software co-design and real-time ML deployment on ed
 ---
 
 ## Education
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:001F3F,100:0074D9&text=Bachelor%20of%20Engineering%20in%20Electrical%20Engineering&fontSize=28&fontColor=ffffff&desc=NUST%20Islamabad&descSize=20&descAlignY=72" />
+  <br><br>
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/3c/NUST_Logo.png" width="180" />
+</div>
 
-Bachelor of Engineering in Electrical Engineering 
-  
-National University of Sciences and Technology Islamabad  
-
-CGPA 3.58 / 4.00 
-
+<p align="center">
+CGPA 3.58 / 4.00
 </p>
 
 ---
