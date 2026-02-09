@@ -27,15 +27,30 @@ Strong interest in hardware software co-design and real-time ML deployment on ed
 ---
 
 ## Education
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:001F3F,100:0074D9&text=Bachelor%20of%20Engineering%20in%20Electrical%20Engineering&fontSize=28&fontColor=ffffff&desc=NUST%20Islamabad&descSize=20&descAlignY=72" />
+
+<div align="center" style="max-width:900px; margin:auto;">
+
+  <!-- Education Banner -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:001F3F,100:0074D9&text=Bachelor%20of%20Engineering%20in%20Electrical%20Engineering&fontSize=28&fontColor=ffffff&desc=NUST%20Islamabad&descSize=20&descAlignY=72"
+    width="100%"
+  />
+
   <br><br>
-  <img src="https://github.com/user-attachments/assets/0373c427-9ea8-426d-8fe0-4bc4e2c4527f" width="260" alt="NUST Logo" />
+
+  <!-- NUST Logo -->
+  <img
+    src="https://github.com/user-attachments/assets/0373c427-9ea8-426d-8fe0-4bc4e2c4527f"
+    width="100%"
+    alt="NUST Logo"
+  />
+
 </div>
 
 <p align="center">
 CGPA 3.58 / 4.00
 </p>
+
 ---
 
 ## Research Interests
