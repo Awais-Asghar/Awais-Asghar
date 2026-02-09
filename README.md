@@ -33,7 +33,7 @@ Bachelor of Engineering in Electrical Engineering
   
 National University of Sciences and Technology Islamabad  
 
-GPA 3.58 / 4.00 
+CGPA 3.58 / 4.00 
 
 </p>
 
