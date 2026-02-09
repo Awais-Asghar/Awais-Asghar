@@ -9,6 +9,8 @@
 ---
 
 ## Profile Summary
+[![Profile Summary for GitHub](https://img.shields.io/badge/Profile%20Summary-Click%20Here-orange?style=flat-square)](https://profile-summary-for-github.com/user/Awais-Asghar) 
+
 <p align="center">
 Electrical Engineering undergraduate at NUST focused on AI accelerators, FPGA and RTL design, embedded AI systems, and computer vision.  
 Strong interest in hardware software co-design and real-time ML deployment on edge platforms.
@@ -100,6 +102,18 @@ ML based FPGA accelerator for real-time image segmentation, lightweight U-Net fo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Awais-Asghar&theme=dark&hide_border=true" width="48%" />
 </div>
 
+
+<div align="center">
+
+![Awais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Awais-Asghar&show_icons=true&theme=radical&count_private=true&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Awais-Asghar&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awais-Asghar&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+[![Profile Summary](https://img.shields.io/badge/📊-GitHub_Profile_Summary-FF6B6B?style=for-the-badge)](https://profile-summary-for-github.com/user/Awais-Asghar)
+
+</div>
 ---
 
 ## Contact
