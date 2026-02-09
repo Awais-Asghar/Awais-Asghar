@@ -47,9 +47,9 @@ Strong interest in hardware software co-design and real-time ML deployment on ed
 
 </div>
 
-<p align="center">
-CGPA 3.58 / 4.00
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/CGPA-3.58%20%2F%204.00-0A66C2?style=for-the-badge" />
+</div>
 
 ---
 
