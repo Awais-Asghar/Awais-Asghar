@@ -17,18 +17,24 @@ Electrical Engineer at NUST focused on AI accelerators, FPGA and RTL design, emb
 Strong interest in hardware software co-design and real-time ML deployment on edge platforms.
 </p>
 
----
 
-## Education
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awais-Asghar&theme=github_dark" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Awais-Asghar&theme=github_dark" width="45%" />
 </div>
 
 <p align="center">
-Bachelor of Engineering in Electrical Engineering  
+  
+---
+
+## Education
+
+Bachelor of Engineering in Electrical Engineering 
+  
 National University of Sciences and Technology Islamabad  
-GPA 3.58 / 4.00  
+
+GPA 3.58 / 4.00 
+
 </p>
 
 ---
@@ -46,12 +52,12 @@ GPA 3.58 / 4.00
 
 ## Final Year Project
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Awais-Asghar&repo=ML-based-Hardware-Accelerator&theme=github-dark&hide_border=true" width="60%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001F3F,100:0074D9&height=140&section=header&text=ML%20Based%20Hardware%20Accelerator&fontSize=32&fontColor=ffffff&desc=Real%20Time%20Image%20Segmentation%20on%20FPGA&descSize=20&descAlignY=75" />
 </div>
 
 <p align="center">
-ML based Hardware Accelerator for Real Time Image Segmentation on FPGA  
-Designing a low latency encoder decoder accelerator using FPGA parallelism for real-time semantic segmentation.
+Design and implementation of an FPGA based accelerator for real time image segmentation using an encoder decoder architecture.  
+Focus on low latency, hardware software co-design, and efficient on-chip memory utilization.
 </p>
 
 ---
