@@ -27,8 +27,8 @@ Strong interest in hardware software co-design and real-time ML deployment on ed
   <!-- New -->
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com/?user=Awais-Asghar&theme=radical"
-    width="750"
+    src="https://streak-stats.demolab.com/?user=Awais-Asghar&theme=highcontrast"
+    width="760"
   />
 </p>
 
