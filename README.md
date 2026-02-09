@@ -36,7 +36,7 @@ Strong interest in hardware software co-design and real-time ML deployment on ed
     width="100%"
   />
 
-  <br><br>
+  <br>
 
   <!-- NUST Logo -->
   <img
