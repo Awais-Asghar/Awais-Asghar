@@ -66,7 +66,7 @@ Strong interest in hardware software co-design and real-time ML deployment on ed
 
 ## Final Year Project
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001F3F,100:0074D9&height=140&section=header&text=ML%20Based%20Hardware%20Accelerator&fontSize=32&fontColor=ffffff&desc=Real%20Time%20Image%20Segmentation%20on%20FPGA&descSize=20&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:004225,100:0B8457&text=ML%20Based%20Hardware%20Accelerator&fontSize=32&fontColor=ffffff&desc=Real%20Time%20Image%20Segmentation%20on%20FPGA&descSize=20&descAlignY=75" />
 </div>
 
 <p align="center">
