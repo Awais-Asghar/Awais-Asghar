@@ -24,11 +24,7 @@ Strong interest in hardware software co-design and real-time ML deployment on ed
 
 <p align="center">
 
-// New
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Awais-Asghar&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-</p>
-
+  <!-- New -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Awais-Asghar&theme=radical&hide_border=true" />
 </p>
