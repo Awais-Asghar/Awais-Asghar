@@ -1,4 +1,3 @@
-# Hello I'm
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:001F3F,100:0074D9&text=Awais%20Asghar&fontSize=70&fontAlignY=52&fontColor=ffffff&desc=AI%20Accelerators%20and%20Embedded%20AI&descSize=26&descAlignY=78" />
 </div>
