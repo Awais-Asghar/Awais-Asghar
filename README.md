@@ -36,8 +36,6 @@ Strong interest in hardware software co-design and real-time ML deployment on ed
     width="100%"
   />
 
-  <br>
-
   <!-- NUST Logo -->
   <img
     src="https://github.com/user-attachments/assets/0373c427-9ea8-426d-8fe0-4bc4e2c4527f"
@@ -91,7 +89,6 @@ Focus on low latency, hardware software co-design, and efficient on-chip memory 
 <img src="https://img.shields.io/badge/Verilog-222222?style=for-the-badge" />
 </div>
 
----
 
 ### FPGA Platforms
 <div align="center">
@@ -102,7 +99,6 @@ Focus on low latency, hardware software co-design, and efficient on-chip memory 
 <img src="https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge" />
 </div>
 
----
 
 ### Embedded Systems
 <div align="center">
@@ -113,7 +109,6 @@ Focus on low latency, hardware software co-design, and efficient on-chip memory 
 <img src="https://img.shields.io/badge/FreeRTOS-0A7CFF?style=for-the-badge" />
 </div>
 
----
 
 ### AI and Machine Learning
 <div align="center">
@@ -130,7 +125,6 @@ Focus on low latency, hardware software co-design, and efficient on-chip memory 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge" />
 </div>
 
----
 
 ## Contact
 <div align="center">
