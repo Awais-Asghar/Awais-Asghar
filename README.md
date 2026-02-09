@@ -135,6 +135,7 @@ Focus on low latency, hardware software co-design, and efficient on-chip memory 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge" />
 </div>
 
+---
 
 ## Contact
 <div align="center">
