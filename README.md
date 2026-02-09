@@ -1,4 +1,3 @@
-<!-- ================= HEADER ================= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:001F3F,100:0074D9&text=Awais%20Asghar&fontSize=70&fontAlignY=52&fontColor=ffffff&desc=AI%20Accelerators%20and%20Embedded%20AI&descSize=26&descAlignY=78" />
 </div>
@@ -120,12 +119,18 @@ Focus on low latency, hardware software co-design, and efficient on-chip memory 
 
 ## Contact
 <div align="center">
-  <a href="mailto:aasghar.bee22seecs@seecs.edu.pk">
-    <img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge" />
+  <a href="mailto:awaisasghara786@gmail.com">
+    <img src="https://img.shields.io/badge/Email%201-awaisasghara786@gmail.com-005FF9?style=for-the-badge" />
   </a>
+  <br><br>
+  <a href="mailto:aasghar.bee22seecs@seecs.edu.pk">
+    <img src="https://img.shields.io/badge/Email%202-aasghar.bee22seecs@seecs.edu.pk-005FF9?style=for-the-badge" />
+  </a>
+  <br><br>
   <a href="https://linkedin.com/in/awais--asghar">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" />
   </a>
+  <br><br>
   <a href="https://github.com/Awais-Asghar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" />
   </a>
