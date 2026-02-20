@@ -118,6 +118,7 @@ Focus on low latency, hardware software co-design, and efficient on-chip memory 
 <img src="https://img.shields.io/badge/AVR-0066CC?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Pixhawk-3C3C3C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/FreeRTOS-0A7CFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Jetson%20Orin%20Nano-0066CC?style=for-the-badge" />
 </div>
 
 
