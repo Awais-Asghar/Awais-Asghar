@@ -7,7 +7,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Awais-Asghar&theme=github_dark" width="90%" />
 </div>
 
----
 
 ## Profile Summary
 [![Profile Summary for GitHub](https://img.shields.io/badge/Profile%20Summary-Click%20Here-blue?style=for-the-badge)](https://profile-summary-for-github.com/user/Awais-Asghar)
@@ -34,8 +33,6 @@ Strong interest in hardware software co-design and real-time ML deployment on ed
 </p>
 
    
-  
----
 
 ## Education
 
@@ -60,7 +57,6 @@ Strong interest in hardware software co-design and real-time ML deployment on ed
   <img src="https://img.shields.io/badge/CGPA-3.58%20%2F%204.00-0A66C2?style=for-the-badge" />
 </div>
 
----
 
 ## Research Interests
 <div align="center">
@@ -71,7 +67,6 @@ Strong interest in hardware software co-design and real-time ML deployment on ed
   <img src="https://img.shields.io/badge/Hardware%20Software%20Co--Design-222222?style=for-the-badge" />
 </div>
 
----
 
 ## Final Year Project
 <div align="center">
@@ -83,7 +78,6 @@ Design and implementation of an FPGA based accelerator for real time image segme
 Focus on low latency, hardware software co-design, and efficient on-chip memory utilization.
 </p>
 
----
 
 ## Technical Stack
 
@@ -137,7 +131,6 @@ Focus on low latency, hardware software co-design, and efficient on-chip memory 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge" />
 </div>
 
----
 
 ## Contact
 <div align="center">
@@ -158,7 +151,6 @@ Focus on low latency, hardware software co-design, and efficient on-chip memory 
   </a>
 </div>
 
----
 
 <p align="center">
 Built for AI accelerator research, FPGA design, and graduate opportunities
