@@ -1,157 +1,404 @@
+
+
+ <!---------------------------------------------- Cover Banner ------------------------------------------------------>
 <h2 align="center">Hi there, Welcome to my GitHub Profile!</h2>
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:001F3F,100:0074D9&text=Awais%20Asghar&fontSize=70&fontAlignY=52&fontColor=ffffff&desc=AI%20Engineer&descSize=26&descAlignY=78" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:001F3F,100:0074D9&text=Awais%20Asghar&fontSize=70&fontAlignY=52&fontColor=ffffff&desc=Electrical%20Engineer%20|%20AI%20Accelerators%20|%20Embedded%20AI&descSize=26&descAlignY=78" />
 </div>
+
+
+
+
+### **My Tools & Languages:**
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Awais-Asghar&theme=github_dark" width="90%" />
+  <!-- 1. Languages -->
+  <img width="40" alt="C" src="Tools & Languages Logos/1. Languages/1. C Language.png" />
+  <img width="40" alt="C++" src="Tools & Languages Logos/1. Languages/2. C++ Language.png" />
+  <img width="45" alt="Embedded C" src="Tools & Languages Logos/1. Languages/3. Embedded C Language.png" />
+  <img width="40" alt="Python" src="Tools & Languages Logos/1. Languages/4. Python.png" />
+  <img width="40" alt="Matlab" src="Tools & Languages Logos/1. Languages/5. Matlab.png" />
+  <img width="40" alt="Assembly" src="Tools & Languages Logos/1. Languages/6. Assembly.png" />
+  <img width="40" alt="Cuda" src="Tools & Languages Logos/1. Languages/7. Cuda.png" />
+  <img width="45" alt="SysVerilog" src="Tools & Languages Logos/1. Languages/8. System Verilog.png" />
+  <img width="40" alt="Verilog" src="Tools & Languages Logos/1. Languages/9. Verilog.png" />
+
+  <!-- 2. FPGA -->
+  <img width="45" alt="Zybo" src="Tools & Languages Logos/2. FPGA Plateform/1. Zybo z7-20.png" />
+  <img width="40" alt="Artix" src="Tools & Languages Logos/2. FPGA Plateform/2. Artix A7.png" />
+  <img width="45" alt="DE1" src="Tools & Languages Logos/2. FPGA Plateform/3. DE1-SOC.png" />
+  <img width="40" alt="Vivado" src="Tools & Languages Logos/2. FPGA Plateform/4. Vivado.png" />
+  <img width="40" alt="Quartus" src="Tools & Languages Logos/2. FPGA Plateform/5. Quartus.png" />
+
+  <!-- 3. Embedded -->
+  <img width="45" alt="STM32" src="Tools & Languages Logos/3, Embedded System/1. STM32.png" />
+  <img width="45" alt="ESP32" src="Tools & Languages Logos/3, Embedded System/2. ESP32.png" />
+  <img width="40" alt="AVR" src="Tools & Languages Logos/3, Embedded System/3. AVR.png" />
+  <img width="45" alt="Pixhawk" src="Tools & Languages Logos/3, Embedded System/4. Pixhawk.png" />
+  <img width="45" alt="FreeRTOS" src="Tools & Languages Logos/3, Embedded System/5. FreeRTOS.png" />
+  <img width="55" alt="Jetson" src="Tools & Languages Logos/3, Embedded System/6. Jetson Nano.png" />
+
+  <!-- 4. AI/ML -->
+  <img width="40" alt="Python" src="Tools & Languages Logos/4. AI & Machine Learning/1. Python.png" />
+  <img width="55" alt="TF" src="Tools & Languages Logos/4. AI & Machine Learning/2. Tensor Flow.png" />
+  <img width="40" alt="PyTorch" src="Tools & Languages Logos/4. AI & Machine Learning/3. Pytorch.png" />
+  <img width="40" alt="Keras" src="Tools & Languages Logos/4. AI & Machine Learning/4. Keras.png" />
+  <img width="40" alt="Numpy" src="Tools & Languages Logos/4. AI & Machine Learning/5. Numpy.png" />
+  <img width="35" alt="Scipy" src="Tools & Languages Logos/4. AI & Machine Learning/6. Scipy.png" />
+  <img width="45" alt="Pandas" src="Tools & Languages Logos/4. AI & Machine Learning/7. Pandas.png" />
+  <img width="45" alt="OpenCV" src="Tools & Languages Logos/4. AI & Machine Learning/8. Opencv.png" />
+  <img width="55" alt="Matplotlib" src="Tools & Languages Logos/4. AI & Machine Learning/9. Matplotliab.png" />
+  <img width="55" alt="BeautifulSoup" src="Tools & Languages Logos/4. AI & Machine Learning/10. Beautifulsoup.jpg" />
+  <img width="55" alt="Sklearn" src="Tools & Languages Logos/4. AI & Machine Learning/11. Scikit-Learn.png" />
+</div>
+<br>
+
+
+ <!---------------------------------------------- views, followers Banner ------------------------------------------------------>
+<p align="center">
+  <a href="https://profile-summary-for-github.com/user/Awais-Asghar">
+    <img src="https://img.shields.io/badge/Profile_Summary-Click_Here-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="Profile Summary" />
+    <img src="https://komarev.com/ghpvc/?username=Awais-Asghar&label=Profile%20Views&color=1E3A8A&style=for-the-badge" height="50"/>
+    <img src="https://img.shields.io/github/followers/Awais-Asghar?label=Followers&color=1E3A8A&style=for-the-badge&logo=github&logoColor=white" height="50"/>
+   <img src="https://img.shields.io/github/stars/Awais-Asghar?label=Total%20Stars&color=FF8C00&style=for-the-badge&logo=star&logoColor=white" height="50"/>
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:00c6ff&height=2">
+
+
+
+## Professional Summary:
+
+Electrical Engineering graduate from **NUST (2026)**, specializing in **AI acceleration**, **FPGA-based RTL design**, and **embedded AI systems**.
+Experienced in deploying real-time machine learning models on edge platforms, with hands-on expertise in **hardware-software co-design** using CUDA, Verilog, SystemVerilog, and Embedded C.
+
+Proficient across **FPGA platforms** (Zybo Z7-20 · Artix A7 · DE1-SOC), **embedded systems** (STM32 · ESP32 · FreeRTOS · Jetson Nano),
+and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And backed by strong foundations in Python, C/C++, MATLAB, and Assembly.
+
+
+
+
+## Education:
+<div align="center">
+  <table>
+    <tr>
+      <td width="120" align="center">
+        <img src="Tools & Languages Logos/NUST logo.png" width="120" alt="NUST"/>
+      </td>
+      <td align="center">
+        <h2>Bachelor of Engineering in Electrical Engineering</h2>
+        <h4><a href="https://nust.edu.pk">National University of Sciences & Technology (NUST)</a> • Islamabad</h4>
+        <h5>2022 – 2026 | CGPA: 3.64 / 4.0 | School of Electrical Engineering & CS </h5>
+      </td>
+      <td width="160" align="center">
+        <img src="Tools & Languages Logos/SEECS.png" width="160" alt="SEECS"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!------------------------------------------------------------------------ Technical Stack ------------------------------------------------------------------------>
+<div align="center">
+<img width="311" alt="image" src="https://github.com/user-attachments/assets/b7178226-f608-4cdf-a03b-322ce0be2b9f" />
+</div>
+
+## 1. Languages:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img width="50" alt="C" src="Tools & Languages Logos/1. Languages/1. C Language.png" /><br><b>C</b></td>
+      <td align="center"><img width="50" alt="C++" src="Tools & Languages Logos/1. Languages/2. C++ Language.png" /><br><b>C++</b></td>
+      <td align="center"><img width="55" alt="Embedded C" src="Tools & Languages Logos/1. Languages/3. Embedded C Language.png" /><br><b>Embedded C</b></td>
+      <td align="center"><img width="50" alt="Python" src="Tools & Languages Logos/1. Languages/4. Python.png" /><br><b>Python</b></td>
+      <td align="center"><img width="50" alt="Matlab" src="Tools & Languages Logos/1. Languages/5. Matlab.png" /><br><b>Matlab</b></td>
+      <td align="center"><img width="50" alt="Assembly" src="Tools & Languages Logos/1. Languages/6. Assembly.png" /><br><b>Assembly</b></td>
+      <td align="center"><img width="50" alt="Cuda" src="Tools & Languages Logos/1. Languages/7. Cuda.png" /><br><b>Cuda</b></td>
+      <td align="center"><img width="55" alt="System Verilog" src="Tools & Languages Logos/1. Languages/8. System Verilog.png" /><br><b>System Verilog</b></td>
+      <td align="center"><img width="50" alt="Verilog" src="Tools & Languages Logos/1. Languages/9. Verilog.png" /><br><b>Verilog</b></td>
+    </tr>
+  </table>
+</div>
+
+## 2. FPGA Platforms:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img width="75" alt="Zybo Z7-20" src="Tools & Languages Logos/2. FPGA Plateform/1. Zybo z7-20.png" /><br><b>Zybo Z7-20</b></td>
+      <td align="center"><img width="75" alt="Artix A7" src="Tools & Languages Logos/2. FPGA Plateform/2. Artix A7.png" /><br><b>Artix A7</b></td>
+      <td align="center"><img width="75" alt="DE1-SOC" src="Tools & Languages Logos/2. FPGA Plateform/3. DE1-SOC.png" /><br><b>DE1-SOC</b></td>
+      <td align="center"><img width="75" alt="Vivado" src="Tools & Languages Logos/2. FPGA Plateform/4. Vivado.png" /><br><b>Vivado</b></td>
+      <td align="center"><img width="75" alt="Quartus" src="Tools & Languages Logos/2. FPGA Plateform/5. Quartus.png" /><br><b>Quartus</b></td>
+    </tr>
+  </table>
 </div>
 
 
-## Profile Summary
-[![Profile Summary for GitHub](https://img.shields.io/badge/Profile%20Summary-Click%20Here-blue?style=for-the-badge)](https://profile-summary-for-github.com/user/Awais-Asghar)
+## 3. Embedded Systems:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img width="70" alt="STM32" src="Tools & Languages Logos/3, Embedded System/1. STM32.png" /><br><b>STM32</b></td>
+      <td align="center"><img width="70" alt="ESP32" src="Tools & Languages Logos/3, Embedded System/2. ESP32.png" /><br><b>ESP32</b></td>
+      <td align="center"><img width="70" alt="AVR" src="Tools & Languages Logos/3, Embedded System/3. AVR.png" /><br><b>AVR</b></td>
+      <td align="center"><img width="110" alt="Pixhawk" src="Tools & Languages Logos/3, Embedded System/4. Pixhawk.png" /><br><b>Pixhawk</b></td>
+      <td align="center"><img width="110" alt="FreeRTOS" src="Tools & Languages Logos/3, Embedded System/5. FreeRTOS.png" /><br><b>FreeRTOS</b></td>
+      <td align="center"><img width="110" alt="Jetson Nano" src="Tools & Languages Logos/3, Embedded System/6. Jetson Nano.png" /><br><b>Jetson Nano</b></td>
+    </tr>
+  </table>
+</div>
+
+## 4. AI & Machine Learning:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img width="50" alt="Python" src="Tools & Languages Logos/4. AI & Machine Learning/1. Python.png" /><br><b>Python</b></td>
+      <td align="center"><img width="65" alt="Tensor Flow" src="Tools & Languages Logos/4. AI & Machine Learning/2. Tensor Flow.png" /><br><b>Tensor Flow</b></td>
+      <td align="center"><img width="50" alt="PyTorch" src="Tools & Languages Logos/4. AI & Machine Learning/3. Pytorch.png" /><br><b>PyTorch</b></td>
+      <td align="center"><img width="50" alt="Keras" src="Tools & Languages Logos/4. AI & Machine Learning/4. Keras.png" /><br><b>Keras</b></td>
+      <td align="center"><img width="50" alt="Numpy" src="Tools & Languages Logos/4. AI & Machine Learning/5. Numpy.png" /><br><b>Numpy</b></td>
+      <td align="center"><img width="45" alt="Scipy" src="Tools & Languages Logos/4. AI & Machine Learning/6. Scipy.png" /><br><b>Scipy</b></td>
+      <td align="center"><img width="55" alt="Pandas" src="Tools & Languages Logos/4. AI & Machine Learning/7. Pandas.png" /><br><b>Pandas</b></td>
+      <td align="center"><img width="55" alt="OpenCV" src="Tools & Languages Logos/4. AI & Machine Learning/8. Opencv.png" /><br><b>OpenCV</b></td>
+      <td align="center"><img width="65" alt="Matplotlib" src="Tools & Languages Logos/4. AI & Machine Learning/9. Matplotliab.png" /><br><b>Matplotlib</b></td>
+      <td align="center"><img width="65" alt="BeautifulSoup" src="Tools & Languages Logos/4. AI & Machine Learning/10. Beautifulsoup.jpg" /><br><b>BeautifulSoup</b></td>
+      <td align="center"><img width="65" alt="Scikit-Learn" src="Tools & Languages Logos/4. AI & Machine Learning/11. Scikit-Learn.png" /><br><b>Scikit-Learn</b></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+</br>
+
+<!------------------------------------------------------------------------Research Interests ------------------------------------------------------------------------>
+
+<div align="center">
+<img width="311" alt="image" src="https://github.com/user-attachments/assets/2ca12970-5732-4eef-bcfa-91d7ac427fef" />
+</div>
+</br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="130">
+        <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="55"/><br/>
+        <strong>AI Accelerators</strong>
+      </td>
+      <td align="center" width="130">
+        <img src="https://img.icons8.com/nolan/64/processor.png" width="55"/><br/>
+        <strong>FPGA & RTL Design</strong>
+      </td>
+      <td align="center" width="130">
+        <img src="https://img.icons8.com/nolan/64/circuit.png" width="55"/><br/>
+        <strong>Embedded AI Systems</strong>
+      </td>
+      <td align="center" width="130">
+        <img src="https://img.icons8.com/nolan/64/camera.png" width="55"/><br/>
+        <strong>Computer Vision</strong>
+      </td>
+      <td align="center" width="130">
+        <img src="https://img.icons8.com/nolan/64/motherboard.png" width="55"/><br/>
+        <strong>HW-SW Co-Design</strong>
+      </td>
+      <td align="center" width="130">
+        <img src="https://img.icons8.com/nolan/64/cyber-security.png" width="55"/><br/>
+        <strong>Edge Computing</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+
+</br>
+
+# Final Year Project:
+
+<!-- THEME 10: BRIGHT CYAN-PURPLE GRADIENT (White text - BEST FOR DARK MODE) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:06B6D4,50:3B82F6,100:8B5CF6&text=ML%20Based%20Hardware%20Accelerator&fontSize=40&desc=Real-Time%20Image%20Segmentation%20on%20FPGA%20%7C%20NUST%20FYP%202026&descSize=16&fontColor=FFFFFF&stroke=000000&strokeWidth=0" />
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/nolan/64/processor.png" width="50"/><br/>
+      <strong>FPGA Accelerator</strong><br/>
+      <sub>Zybo Z7-20 · Artix A7<br/>Xilinx Vivado</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="50"/><br/>
+      <strong>Encoder-Decoder</strong><br/>
+      <sub>U-Net Architecture<br/>RTL Implementation</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/nolan/64/camera.png" width="50"/><br/>
+      <strong>Computer Vision</strong><br/>
+      <sub>Real-Time Segmentation<br/>Low Latency Inference</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/nolan/64/circuit.png" width="50"/><br/>
+      <strong>HW-SW Co-Design</strong><br/>
+      <sub>On-Chip Memory<br/>Efficient Utilization</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+> *Design and implementation of an FPGA-based accelerator for real-time image segmentation using an encoder-decoder architecture, with focus on low latency, hardware-software co-design, and efficient on-chip memory utilization.*
+
+
+
+<div align="left">
+<h1>Tech Stack: &nbsp;
+<img width="36" alt="Python" src="Tools & Languages Logos/4. AI & Machine Learning/1. Python.png" />
+<img width="36" alt="TensorFlow" src="Tools & Languages Logos/4. AI & Machine Learning/2. Tensor Flow.png" />
+<img width="36" alt="PyTorch" src="Tools & Languages Logos/4. AI & Machine Learning/3. Pytorch.png" />
+<img width="36" alt="Keras" src="Tools & Languages Logos/4. AI & Machine Learning/4. Keras.png" />
+<img width="36" alt="OpenCV" src="Tools & Languages Logos/4. AI & Machine Learning/8. Opencv.png" />
+<img width="36" alt="Verilog" src="Tools & Languages Logos/1. Languages/9. Verilog.png" />
+<img width="36" alt="Vivado" src="Tools & Languages Logos/2. FPGA Plateform/4. Vivado.png" />
+<img width="36" alt="CUDA" src="Tools & Languages Logos/1. Languages/7. Cuda.png" />
+</h1>
+</div>
+
+
+
+---
+</br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     Github Analytics                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img width="302" alt="image" src="https://github.com/user-attachments/assets/9081e5b1-af22-4fcb-8bc2-c2459f8ec644" />
+</div>
+    
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Awais-Asghar&theme=radical" style="width: 100%; max-width: 100%; display: block;" />
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td align="center" style="padding: 0; width: 33%;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Awais-Asghar&theme=radical" style="width: 100%; display: block;" />
+    </td>
+    <td align="center" style="padding: 0; width: 33%;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awais-Asghar&theme=radical" style="width: 100%; display: block;" />
+    </td>
+    <td align="center" style="padding: 0; width: 34%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Awais-Asghar&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" style="width: 100%; display: block;" />
+    </td>
+  </tr>
+</table>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td align="center" style="padding: 0; width: 100%;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awais-Asghar&theme=radical&hide_border=true&area=true&custom_title=Contribution+Graph" style="width: 100%; display: block;" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-Electrical Engineer at NUST focused on AI accelerators, FPGA and RTL design, embedded AI systems, and computer vision.  
-Strong interest in hardware software co-design and real-time ML deployment on edge platforms.
+  <img src="https://github-trophies.vercel.app/?username=Awais-Asghar&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=8&row=1" width="100%" alt="Trophies" />
 </p>
 
 
+---
+</br>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      CONNECT WITH ME                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awais-Asghar&theme=github_dark" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Awais-Asghar&theme=github_dark" width="45%" />
+<img width="308" alt="image" src="https://github.com/user-attachments/assets/d68510e4-aa37-432b-8e54-6e86d00c0d22" />
 </div>
 
-<p align="center">
+</br>
 
-  <!-- New -->
+
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=Awais-Asghar&theme=github-dark"
-    width="760"
-  />
+  <a href="mailto:awaisasghara786@gmail.com" target="_blank">
+    <img src="Connect with me Cards/Primary Mail.png" alt="Primary Mail" width="22%">
+  </a>
+  <a href="mailto:aasghar.bee22seecs@seecs.edu.pk" target="_blank">
+    <img src="Connect with me Cards/Secondary Mail.png" alt="Secondary Mail" width="22%">
+  </a>
+  <a href="https://linkedin.com/in/awais--asghar" target="_blank">
+    <img src="Connect with me Cards/LinkedIn.png" alt="LinkedIn" width="22%">
+  </a>
+  <a href="https://github.com/Awais-Asghar" target="_blank">
+    <img src="Connect with me Cards/GitHub.png" alt="GitHub" width="22%">
+  </a>
 </p>
 
-   
+</br>
 
-## Education
 
-<div align="center" style="max-width:900px; margin:auto;">
 
-  <!-- Education Banner -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:001F3F,100:0074D9&text=Bachelor%20of%20Engineering%20in%20Electrical%20Engineering&fontSize=28&fontColor=ffffff&desc=NUST%20Islamabad&descSize=20&descAlignY=72"
-    width="100%"
-  />
-
-  <!-- NUST Logo -->
-  <img
-    src="https://github.com/user-attachments/assets/0373c427-9ea8-426d-8fe0-4bc4e2c4527f"
-    width="100%"
-    alt="NUST Logo"
-  />
-
-</div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/CGPA-3.63%20%2F%204.00-0A66C2?style=for-the-badge" />
+
+<a href="mailto:awaisasghara786@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="" alt="55Gmail"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:aasghar.bee22seecs@seecs.edu.pk">
+  <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="55" alt="Outlook"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/awais--asghar">
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="55" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Awais-Asghar">
+  <img src="https://img.icons8.com/fluency/48/github.png" width="55" alt="GitHub"/>
+</a>
+
 </div>
 
+</br>
 
-## Research Interests
-<div align="center">
-  <img src="https://img.shields.io/badge/AI%20Accelerators-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FPGA%20and%20RTL%20Design-003A8F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embedded%20AI%20Systems-0A7CFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hardware%20Software%20Co--Design-222222?style=for-the-badge" />
-</div>
-
-
-## Final Year Project
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:0B1C2D,100:123A63&text=ML%20Based%20Hardware%20Accelerator&fontSize=32&fontColor=ffffff&desc=Real%20Time%20Image%20Segmentation%20on%20FPGA&descSize=20&descAlignY=75" />
-</div>
-
-<p align="center">
-Design and implementation of an FPGA based accelerator for real time image segmentation using an encoder decoder architecture.  
-Focus on low latency, hardware software co-design, and efficient on-chip memory utilization.
-</p>
-
-
-## Technical Stack
-
-### Programming Languages
-<div align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/C++-004482?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Embedded%20C-0A7CFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MATLAB-FF0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Assembly-222222?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SystemVerilog-222222?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Verilog-222222?style=for-the-badge" />
-</div>
-
-
-### FPGA Platforms
-<div align="center">
-<img src="https://img.shields.io/badge/Zybo%20Z7--20-ED1C24?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Artix%20A7-8B0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DE1--SoC-003A8F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vivado-EE0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge" />
-</div>
-
-
-### Embedded Systems
-<div align="center">
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AVR-0066CC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Pixhawk-3C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FreeRTOS-0A7CFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Jetson%20Orin%20Nano-0066CC?style=for-the-badge" />
-</div>
-
-
-### AI and Machine Learning
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BeautifulSoup-222222?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge" />
-</div>
-
-
-## Contact
 <div align="center">
   <a href="mailto:awaisasghara786@gmail.com">
-    <img src="https://img.shields.io/badge/Email%201-awaisasghara786@gmail.com-005FF9?style=for-the-badge" />
-  </a>
-  <br><br>
-  <a href="mailto:aasghar.bee22seecs@seecs.edu.pk">
-    <img src="https://img.shields.io/badge/Email%202-aasghar.bee22seecs@seecs.edu.pk-005FF9?style=for-the-badge" />
-  </a>
-  <br><br>
-  <a href="https://linkedin.com/in/awais--asghar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" />
-  </a>
-  <br><br>
-  <a href="https://github.com/Awais-Asghar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LET'S_BUILD_TOGETHER-2A1A4A?style=for-the-badge&logo=rocket&logoColor=white&labelColor=2A1A4A&color=003344" height="60"/>
   </a>
 </div>
 
 
-<p align="center">
-Built for AI accelerator research, FPGA design, and graduate opportunities
-</p>
+
+<div align="center">
+  <p style="font-size:24px; color:#AE81FF;">
+    <strong>AI accelerator Research • Technical Roles • AI/ML • FPGA design</strong>
+  </p>
+
+  <p style="color:#FFFFFF; font-size:15px;">
+    <em>Last Updated: July 2026 • Built with precision for engineering Excellence</em>
+  </p>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:00c6ff&height=2">
+
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fraisasghar/Awais-Asghar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fraisasghar/Awais-Asghar/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/fraisasghar/Awais-Asghar/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+
+---
+
