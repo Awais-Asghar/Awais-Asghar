@@ -347,7 +347,7 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
   <img src="https://img.icons8.com/color/48/gmail-new.png" width="" alt="55Gmail"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:aasghar.bee22seecs@seecs.edu.pk">
+<a href="mailto:aasghar.bee22seecs@student.nust.edu.pk">
   <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="55" alt="Outlook"/>
 </a>
 &nbsp;&nbsp;&nbsp;
@@ -392,7 +392,3 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/fraisasghar/Awais-Asghar/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
-
-
----
-
