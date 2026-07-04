@@ -1,12 +1,8 @@
-
-
  <!---------------------------------------------- Cover Banner ------------------------------------------------------>
 <h2 align="center">Hi there, Welcome to my GitHub Profile!</h2>
 <div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:001F3F,100:0074D9&text=Awais%20Asghar&fontSize=70&fontAlignY=52&fontColor=ffffff&desc=Electrical%20Engineer%20|%20AI%20Accelerators%20|%20Embedded%20AI&descSize=26&descAlignY=78" />
 </div>
-
-
 
 
 ### **My Tools & Languages:**
@@ -77,8 +73,6 @@ Proficient across **FPGA platforms** (Zybo Z7-20 · Artix A7 · DE1-SOC), **embe
 and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And backed by strong foundations in Python, C/C++, MATLAB, and Assembly.
 
 
-
-
 ## Education:
 <div align="center">
   <table>
@@ -89,7 +83,7 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
       <td align="center">
         <h2>Bachelor of Engineering in Electrical Engineering</h2>
         <h4><a href="https://nust.edu.pk">National University of Sciences & Technology (NUST)</a> • Islamabad</h4>
-        <h5>2022 – 2026 | CGPA: 3.64 / 4.0 | School of Electrical Engineering & CS </h5>
+        <h5>2022 – 2026 | CGPA: 3.63 / 4.0 | School of Electrical Engineering & CS </h5>
       </td>
       <td width="160" align="center">
         <img src="Tools & Languages Logos/SEECS.png" width="160" alt="SEECS"/>
